@@ -1,0 +1,88 @@
+
+body{
+  background-color: rgb(235, 233, 229);
+  font-size: 16px;
+}
+
+.login{
+  width: 300px;
+  margin: 100px auto;
+  label{
+    color: rgb(79, 71, 59);
+    font-size: large;
+  }
+  .form-control{
+    background-color: rgb(220, 214, 206);
+  }
+  .btn{
+    background-color: rgb(151, 135, 112);
+  }
+  input{
+    margin-bottom:10px ;
+  }
+}
+
+.navbar{
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
+.nav > li > a,
+.navbar-brand{
+  padding: 15px 12px;
+}
+.navbar-brand{
+  font-size: 1em;
+}
+.navbar-inverse .navbar-nav > .open>a,
+.navbar-inverse .navbar-nav > .open>a:focus,
+.navbar-inverse .navbar-nav > .open>a:hover, 
+.dropdown-menu{
+  background-color: rgb(72, 63, 50);
+}
+  
+
+.dropdown-menu{
+  min-width: 180px;
+  padding: 0;
+  font-size: 1em;
+  border: none;
+  border-radius: 0;
+}
+
+.dropdown-menu>li>a{
+  color: rgb(240, 226, 207);
+  padding: 10px 15px;
+}
+
+.dropdown-menu>li>a:hover{
+  background-color: rgb(235, 233, 229);
+}
+
+h1{
+  font-size: 55px;
+  margin: 40px 0;
+  font-weight: bold;
+  color: rgb(132, 130, 124);
+}
+
+.main-table tr:first-child th{
+  background-color:rgb(93, 92, 91);
+  color: #fff;
+}
+
+.home-stats .stat{
+  background-color: #eee;
+  border: 1px solid #ccc;
+  padding: 20px;
+  font-size: 15px;
+
+}
+.latest{
+  margin-top: 30px;
+}
+.home-stats .stat span{
+
+    display: block;
+    font-size: 50px;
+}
