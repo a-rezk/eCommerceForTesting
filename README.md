@@ -1,3 +1,3 @@
 ***
-Simple XAMPP stack application for testing web security..
+Simple XAMPP stack application for testing.
 ***
